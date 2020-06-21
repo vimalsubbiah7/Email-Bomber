@@ -1,7 +1,7 @@
 # Email-Bomber
-Email bomber on python 
+Email bomber on python.
 
-Basic Email bomber built on python
+Basic Email bomber built on python.
 
 ## Currently only works for gmail and configure it for "Less secure settings" in your account
 
